@@ -1,0 +1,16 @@
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\bin\Debug\net6.0-windows\Image Processing.exe
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\bin\Debug\net6.0-windows\Image Processing.deps.json
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\bin\Debug\net6.0-windows\Image Processing.runtimeconfig.json
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\bin\Debug\net6.0-windows\Image Processing.dll
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\bin\Debug\net6.0-windows\Image Processing.pdb
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image_Processing.Form1.resources
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image Processing.csproj.GenerateResource.cache
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image Processing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image Processing.AssemblyInfoInputs.cache
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image Processing.AssemblyInfo.cs
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image Processing.csproj.CoreCompileInputs.cache
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image Processing.dll
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\refint\Image Processing.dll
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image Processing.pdb
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\Image Processing.genruntimeconfig.cache
+C:\Users\gantu\Documents\windowsFormProjects\Image Processing\obj\Debug\net6.0-windows\ref\Image Processing.dll
